@@ -51,12 +51,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-User can compose a tweet
 <img src='http://g.recordit.co/hKi29m0PMo.gif' title='Tweeting' width='' alt='Video Walkthrough' />
 
-User can favorite a tweet
 <img src='http://g.recordit.co/4kaehLuvw8.gif' title='Favorite' width='' alt='Video Walkthrough' />
 
-User can retweet a tweet
-<img src='http://g.recordit.co/hKi29m0PMo.gif' title='Retweet' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/TsATiR0d3T.gif' title='Retweet' width='' alt='Video Walkthrough' />
 
